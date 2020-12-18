@@ -8,6 +8,6 @@ public class Calc {
 	}
 	void sub(int num1,int num2)
 	{
-		System.out.println("sub="+(num1-num2));
+		System.out.println("subtract="+(num1-num2));
 	}
 }
